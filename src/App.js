@@ -7,8 +7,7 @@ import 'bootstrap/dist/css/bootstrap.min.css';
 import firebaseLogo from "./react-native-firebase-1-logo-png-transparent.png"
 
 const firebaseConfig = {
-
-  apiKey: "Votre_clé_API",
+  apiKey: "AIzaSyAkkFL2tMv7u-l7pErURQx-iKE-1NyKtD0",
   authDomain: "uploadimg-9503e.firebaseapp.com",
   databaseURL: "https://uploadimg-9503e-default-rtdb.firebaseio.com",
   projectId: "uploadimg-9503e",
